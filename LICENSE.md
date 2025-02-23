@@ -3,6 +3,7 @@ Custom License
 Copyright (c) 2025 KhanMarauder
 
 </br>
+<h1>Allowances and Unallowances</h1>
 Any entities or persons using this software may:
 <ol>
   <li>share software made with the tool</li>
