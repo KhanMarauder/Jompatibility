@@ -12,8 +12,8 @@ Any entities or persons using this software may:
 And may not:
 <ol>
   <li>redistrobute or sell this software for any price</li>
-  <li>modify the source code or executable in ***any*** way</li>
-  <li>take false credit for ***any*** code made by other users</li>
+  <li>modify the source code or executable in any way</li>
+  <li>take false credit for any code made by other users</li>
 </ol>
 
 ***Any*** violations of this license will ***not*** be tolerated.
